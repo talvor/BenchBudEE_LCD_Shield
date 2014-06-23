@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Arduino)(type Legacy)(uri /home/phillip/Dropbox/Electronics/KiCad_Libraries/Arduino_Shield/arduino_shields.mod)(options "")(descr ""))
+  (lib (name BenchBudee)(type KiCad)(uri ${KIPRJMOD}/BenchBudee_LCD_Shield.pretty)(options "")(descr ""))
+)

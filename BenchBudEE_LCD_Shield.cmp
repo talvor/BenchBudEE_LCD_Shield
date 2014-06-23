@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by Cvpcb (2014-05-22 BZR 4885)-product   date = Fri 13 Jun 2014 05:46:29 PM EST
+
+BeginCmp
+TimeStamp = /53844EA5;
+Reference = DS1;
+ValeurCmp = LCD16X2;
+IdModule  = Adafruit:LCD1602;
+EndCmp
+
+BeginCmp
+TimeStamp = /53806EAD;
+Reference = IC1;
+ValeurCmp = MCP23017;
+IdModule  = SSOP_Packages:SSOP-28;
+EndCmp
+
+BeginCmp
+TimeStamp = /53808455;
+Reference = R1;
+ValeurCmp = 330;
+IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53805F3D;
+Reference = R2;
+ValeurCmp = 4.7K;
+IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53805EF8;
+Reference = R3;
+ValeurCmp = 4.7K;
+IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53805E09;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = Arduino:ARDUINO_UNO;
+EndCmp
+
+BeginCmp
+TimeStamp = /53807955;
+Reference = SW1;
+ValeurCmp = LEFT;
+IdModule  = BenchBudee:SW_PUSH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384B5C7;
+Reference = SW2;
+ValeurCmp = UP;
+IdModule  = BenchBudee:SW_PUSH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384B7CF;
+Reference = SW3;
+ValeurCmp = DOWN;
+IdModule  = BenchBudee:SW_PUSH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384B913;
+Reference = SW4;
+ValeurCmp = RIGHT;
+IdModule  = BenchBudee:SW_PUSH;
+EndCmp
+
+BeginCmp
+TimeStamp = /53807DED;
+Reference = SW5;
+ValeurCmp = SELECT;
+IdModule  = BenchBudee:SW_PUSH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384BA21;
+Reference = SW6;
+ValeurCmp = RESET;
+IdModule  = BenchBudee:SW_PUSH;
+EndCmp
+
+BeginCmp
+TimeStamp = /53808153;
+Reference = TM1;
+ValeurCmp = 10K;
+IdModule  = Potentiometers:Potentiometer_VishaySpectrol-Econtrim-Type36k;
+EndCmp
+
+EndListe
